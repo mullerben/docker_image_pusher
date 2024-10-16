@@ -5,5 +5,9 @@
 # mysql:8.0.39
 # mysql:latest
 
-bellsoft/liberica-openjdk-debian:17.0.11-cds
-openjdk:17.0.11-jre
+# bellsoft/liberica-openjdk-debian:17.0.11-cds
+dragonwell:17-centos-slim
+dragonwell:17-centos
+dragonwell:17-ubuntu
+dragonwell:17-ubuntu-slim
+openjdk:17.0.11
