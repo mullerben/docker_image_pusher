@@ -8,4 +8,4 @@
 # bellsoft/liberica-openjdk-debian:17.0.11-cds
 # alibabadragonwell/dragonwell:17-centos
 # alibabadragonwell/dragonwell:17-ubuntu
-openjdk:17-jre
+openjdk:17-jdk-ubuntu
