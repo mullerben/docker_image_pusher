@@ -11,6 +11,8 @@
 # openjdk:17
 # openjdk:17.0.2
 # opencloudos/opencloudos:8.8
-ubuntu:20.04
-centos:7
-centos:8
+# ubuntu:20.04
+# centos:7
+# centos:8
+nginx:1.26.2
+nginx:stable
