@@ -10,6 +10,7 @@
 # alibabadragonwell/dragonwell:17-ubuntu
 # openjdk:17
 # openjdk:17.0.2
-opencloudos/opencloudos:8.8
-opencloudos/opencloudos:8.10
+# opencloudos/opencloudos:8.8
 ubuntu:20.04
+centos:7
+centos:8
