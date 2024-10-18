@@ -14,27 +14,29 @@
 # ubuntu:20.04
 # centos:7
 # centos:8
-nginx:1.22.1
+# nginx:1.22.1
 # nginx:1.26.2
 # nginx:stable
 # nacos/nacos-server:v2.4.2
-nacos/nacos-server:v2.3.2
-redis:6.2.12
-minio/minio:RELEASE.2023-03-24T21-41-23Z
-seataio/seata-server:1.7.1
-seataio/seata-server:2.0.0
-opensnail/snail-job:1.1.2
-elasticsearch:7.17.6
-kibana:7.17.6
-logstash:7.17.6
-apache/rocketmq:5.2.0
-apacherocketmq/rocketmq-dashboard:latest
-rabbitmq:3.13.3
-bitnami/zookeeper:3.8.0
-bitnami/kafka:3.6.2
-sheepkiller/kafka-manager:latest
-apache/skywalking-oap-server:9.7.0
-apache/skywalking-ui:9.7.0
-prom/prometheus:v2.40.1
-grafana/grafana:9.2.4
-apache/shardingsphere-proxy:5.4.0
+# nacos/nacos-server:v2.3.2
+# redis:6.2.12
+# minio/minio:RELEASE.2023-03-24T21-41-23Z
+# seataio/seata-server:1.7.1
+# seataio/seata-server:2.0.0
+# opensnail/snail-job:1.1.2
+# elasticsearch:7.17.6
+# kibana:7.17.6
+# logstash:7.17.6
+# apache/rocketmq:5.2.0
+# apacherocketmq/rocketmq-dashboard:latest
+# rabbitmq:3.13.3
+# bitnami/zookeeper:3.8.0
+# bitnami/kafka:3.6.2
+# sheepkiller/kafka-manager:latest
+# apache/skywalking-oap-server:9.7.0
+# apache/skywalking-ui:9.7.0
+# prom/prometheus:v2.40.1
+# grafana/grafana:9.2.4
+# apache/shardingsphere-proxy:5.4.0
+portainer/portainer-ce
+portainer/helper-reset-password
