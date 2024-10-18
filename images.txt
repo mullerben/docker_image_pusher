@@ -17,6 +17,7 @@
 # nginx:1.22.1
 # nginx:1.26.2
 # nginx:stable
+nginx:latest
 # nacos/nacos-server:v2.4.2
 # nacos/nacos-server:v2.3.2
 # redis:6.2.12
@@ -38,5 +39,5 @@
 # prom/prometheus:v2.40.1
 # grafana/grafana:9.2.4
 # apache/shardingsphere-proxy:5.4.0
-portainer/portainer-ce
-portainer/helper-reset-password
+# portainer/portainer-ce
+# portainer/helper-reset-password
