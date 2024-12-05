@@ -1,7 +1,7 @@
 # mysql:5.7.36
 # mysql:5.7.44
 # mysql:8.0.24
-mysql:8.0.33
+# mysql:8.0.33
 # mysql:8.0.36
 # mysql:8.0.39
 # mysql:latest
@@ -33,7 +33,7 @@ mysql:8.0.33
 # apache/rocketmq:5.2.0
 # apacherocketmq/rocketmq-dashboard:latest
 # rabbitmq:3.13.3
-rabbitmq:3.13.3-management
+# rabbitmq:3.13.3-management
 # bitnami/zookeeper:3.8.0
 # bitnami/kafka:3.6.2
 # sheepkiller/kafka-manager:latest
@@ -44,3 +44,11 @@ rabbitmq:3.13.3-management
 # apache/shardingsphere-proxy:5.4.0
 # portainer/portainer-ce
 # portainer/helper-reset-password
+alibaba/datax
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:3.2.2
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:3.2.2
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:3.2.2
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:3.2.2
+ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:3.2.2
