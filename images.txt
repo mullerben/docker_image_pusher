@@ -44,9 +44,10 @@
 # apache/shardingsphere-proxy:5.4.0
 # portainer/portainer-ce
 # portainer/helper-reset-password
-alibaba/datax:3.0
+# alibaba/datax:3.0
 # bitnami/postgresql:15.2.0
 # bitnami/zookeeper:3.7.1
+bitnami/zookeeper:3.8.4
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-tools:latest
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-api:latest
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
