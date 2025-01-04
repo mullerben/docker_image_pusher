@@ -53,5 +53,11 @@
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
-jumpserver/jumpserver:latest
-jumpserver/jumpserver:v4.5.0
+ghcr.io/jumpserver/jms_all:v4.5.0
+ghcr.io/jumpserver/jms_koko:v4.0.2
+ghcr.io/jumpserver/jms_core:v4.0.2
+ghcr.io/jumpserver/jms_chen:v4.0.2
+ghcr.io/jumpserver/jms_kael:v3.10.12
+ghcr.io/jumpserver/jms_lion:v4.0.2
+ghcr.io/jumpserver/jms_web:v4.0.2
+ghcr.io/jumpserver/jms_magnus:v3.10.12
