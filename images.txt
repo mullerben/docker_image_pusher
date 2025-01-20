@@ -65,11 +65,11 @@
 # Magnus，JumpServer EE Database Proxy Connector
 # ghcr.io/jumpserver/jms_magnus:v3.10.12
 
-jumpserver/jms_all:v4.6.0
-jumpserver/jms_core:v4.6.0
-jumpserver/jms_koko:v4.6.0
-jumpserver/jms_lion:v4.6.0
-jumpserver/jms_chen:v4.6.0
-jumpserver/jms_web:v4.6.0
+# jumpserver/jms_all:v4.6.0
+ghcr.io/jumpserver/jms_core:v4.6.0
+ghcr.io/jumpserver/jms_koko:v4.6.0
+ghcr.io/jumpserver/jms_lion:v4.6.0
+ghcr.io/jumpserver/jms_chen:v4.6.0
+ghcr.io/jumpserver/jms_web:v4.6.0
 # lion的依赖，实现 RDP/VNC 协议跳板机功能
-jumpserver/guacd:1.5.5-bookworm
+ghcr.io/jumpserver/guacd:1.5.5-bookworm
