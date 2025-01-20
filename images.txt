@@ -23,7 +23,7 @@
 # nacos/nacos-server:v2.4.2
 # nacos/nacos-server:latest
 # redis:6.2.12
-redis:7.0
+# redis:7.0
 # minio/minio:RELEASE.2023-03-24T21-41-23Z
 # seataio/seata-server:1.7.1
 # seataio/seata-server:2.0.0
@@ -65,10 +65,11 @@ redis:7.0
 # Magnus，JumpServer EE Database Proxy Connector
 # ghcr.io/jumpserver/jms_magnus:v3.10.12
 
-ghcr.io/jumpserver/jms_core:v4.6.0
-ghcr.io/jumpserver/jms_koko:v4.6.0
-ghcr.io/jumpserver/jms_lion:v4.6.0
-ghcr.io/jumpserver/jms_chen:v4.6.0
-ghcr.io/jumpserver/jms_web:v4.6.0
+jumpserver/jms_all:v4.6.0
+jumpserver/jms_core:v4.6.0
+jumpserver/jms_koko:v4.6.0
+jumpserver/jms_lion:v4.6.0
+jumpserver/jms_chen:v4.6.0
+jumpserver/jms_web:v4.6.0
 # lion的依赖，实现 RDP/VNC 协议跳板机功能
-ghcr.io/jumpserver/guacd:1.5.5-bookworm
+jumpserver/guacd:1.5.5-bookworm
