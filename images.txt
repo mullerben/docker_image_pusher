@@ -66,10 +66,10 @@
 # ghcr.io/jumpserver/jms_magnus:v3.10.12
 
 # jumpserver/jms_all:v4.6.0
-ghcr.io/jumpserver/jms_core:v4.6.0
-ghcr.io/jumpserver/jms_koko:v4.6.0
-ghcr.io/jumpserver/jms_lion:v4.6.0
-ghcr.io/jumpserver/jms_chen:v4.6.0
-ghcr.io/jumpserver/jms_web:v4.6.0
+ghcr.io/jumpserver/jms_core:latest
+ghcr.io/jumpserver/jms_koko:latest
+ghcr.io/jumpserver/jms_lion:latest
+ghcr.io/jumpserver/jms_chen:latest
+ghcr.io/jumpserver/jms_web:latest
 # lion的依赖，实现 RDP/VNC 协议跳板机功能
 ghcr.io/jumpserver/guacd:1.5.5-bookworm
