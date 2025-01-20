@@ -23,6 +23,7 @@
 # nacos/nacos-server:v2.4.2
 # nacos/nacos-server:latest
 # redis:6.2.12
+redis:7.0
 # minio/minio:RELEASE.2023-03-24T21-41-23Z
 # seataio/seata-server:1.7.1
 # seataio/seata-server:2.0.0
@@ -53,11 +54,21 @@
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-alert-server:latest
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-master:latest
 # ghcr.io/apache/dolphinscheduler/dolphinscheduler-worker:latest
-ghcr.io/jumpserver/jms_all:v4.5.0
-ghcr.io/jumpserver/jms_koko:v4.0.2
-ghcr.io/jumpserver/jms_core:v4.0.2
-ghcr.io/jumpserver/jms_chen:v4.0.2
-ghcr.io/jumpserver/jms_kael:v3.10.12
-ghcr.io/jumpserver/jms_lion:v4.0.2
-ghcr.io/jumpserver/jms_web:v4.0.2
-ghcr.io/jumpserver/jms_magnus:v3.10.12
+# ghcr.io/jumpserver/jms_all:v4.5.0
+# ghcr.io/jumpserver/jms_core:v4.0.2
+# ghcr.io/jumpserver/jms_koko:v4.0.2
+# ghcr.io/jumpserver/jms_lion:v4.0.2
+# ghcr.io/jumpserver/jms_chen:v4.0.2
+# ghcr.io/jumpserver/jms_web:v4.0.2
+# Kael 是 JumpServer 连接 GPT 资产的组件，支持 ChatGPT 等
+# ghcr.io/jumpserver/jms_kael:v3.10.12 
+# Magnus，JumpServer EE Database Proxy Connector
+# ghcr.io/jumpserver/jms_magnus:v3.10.12
+
+ghcr.io/jumpserver/jms_core:v4.6.0
+ghcr.io/jumpserver/jms_koko:v4.6.0
+ghcr.io/jumpserver/jms_lion:v4.6.0
+ghcr.io/jumpserver/jms_chen:v4.6.0
+ghcr.io/jumpserver/jms_web:v4.6.0
+# lion的依赖，实现 RDP/VNC 协议跳板机功能
+ghcr.io/jumpserver/guacd:1.5.5-bookworm
