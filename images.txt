@@ -76,3 +76,20 @@ bellsoft/liberica-openjdk-debian:21.0.5-cds
 # ghcr.io/jumpserver/jms_web:latest
 # lion的依赖，实现 RDP/VNC 协议跳板机功能
 # jumpserver/guacd:1.5.5-bookworm
+
+
+registry.community.greenbone.net/community/vulnerability-tests
+registry.community.greenbone.net/community/notus-data
+registry.community.greenbone.net/community/scap-data
+registry.community.greenbone.net/community/cert-bund-data
+registry.community.greenbone.net/community/dfn-cert-data
+registry.community.greenbone.net/community/data-objects
+registry.community.greenbone.net/community/report-formats
+registry.community.greenbone.net/community/gpg-data
+registry.community.greenbone.net/community/redis-server
+registry.community.greenbone.net/community/pg-gvm:stable
+registry.community.greenbone.net/community/gvmd:stable
+registry.community.greenbone.net/community/gsa:stable
+registry.community.greenbone.net/community/openvas-scanner:stable
+registry.community.greenbone.net/community/ospd-openvas:stable
+registry.community.greenbone.net/community/gvm-tools
