@@ -7,6 +7,9 @@
 # mysql:latest
 
 # bellsoft/liberica-openjdk-debian:17.0.11-cds
+bellsoft/liberica-openjdk-debian:17.0.13-cds
+bellsoft/liberica-openjdk-debian:17.0.13-12-cds
+bellsoft/liberica-openjdk-debian:21.0.5-cds
 # alibabadragonwell/dragonwell:17-centos
 # alibabadragonwell/dragonwell:17-ubuntu
 # openjdk:17
@@ -72,4 +75,4 @@
 # ghcr.io/jumpserver/jms_chen:latest
 # ghcr.io/jumpserver/jms_web:latest
 # lion的依赖，实现 RDP/VNC 协议跳板机功能
-jumpserver/guacd:1.5.5-bookworm
+# jumpserver/guacd:1.5.5-bookworm
