@@ -20,7 +20,6 @@
 # ubuntu:20.04
 # ubuntu:22.04
 # ubuntu:24.04
-ubuntu:minimal
 debian:stable         # 当前稳定版本
 debian:12             # Debian 12 (bookworm) - 当前稳定版
 debian:11             # Debian 11 (bullseye) - 上一个稳定版
