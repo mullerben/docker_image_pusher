@@ -20,14 +20,22 @@
 # ubuntu:20.04
 # ubuntu:22.04
 # ubuntu:24.04
-debian:stable         # 当前稳定版本
-debian:12             # Debian 12 (bookworm) - 当前稳定版
-debian:11             # Debian 11 (bullseye) - 上一个稳定版
-debian:10             # Debian 10 (buster) - 老稳定版
-debian:stable-slim    # 稳定版精简镜像
-debian:12-slim        # Debian 12 精简版
-debian:11-slim        # Debian 11 精简版
-debian:10-slim        # Debian 10 精简版
+# 当前稳定版本
+debian:stable
+# Debian 12 (bookworm) - 当前稳定版
+debian:12
+# Debian 11 (bullseye) - 上一个稳定版
+debian:11
+# Debian 10 (buster) - 老稳定版
+debian:10
+# 稳定版精简镜像
+debian:stable-slim
+# Debian 12 精简版
+debian:12-slim
+# Debian 11 精简版
+debian:11-slim
+# Debian 10 精简版
+debian:10-slim
 # centos:7
 # centos:8
 # nginx:1.22.1
