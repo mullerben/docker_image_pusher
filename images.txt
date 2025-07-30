@@ -88,6 +88,7 @@ debian:10-slim
 # Magnus，JumpServer EE Database Proxy Connector
 # ghcr.io/jumpserver/jms_magnus:v3.10.12
 
+jumpserver/jms_all:v4.10.4
 # jumpserver/jms_all:v4.6.0
 # ghcr.io/jumpserver/jms_core:latest
 # ghcr.io/jumpserver/jms_koko:latest
