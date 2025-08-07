@@ -21,21 +21,21 @@
 # ubuntu:22.04
 # ubuntu:24.04
 # 当前稳定版本
-debian:stable
+# debian:stable
 # Debian 12 (bookworm) - 当前稳定版
-debian:12
+# debian:12
 # Debian 11 (bullseye) - 上一个稳定版
-debian:11
+# debian:11
 # Debian 10 (buster) - 老稳定版
-debian:10
+# debian:10
 # 稳定版精简镜像
-debian:stable-slim
+# debian:stable-slim
 # Debian 12 精简版
-debian:12-slim
+# debian:12-slim
 # Debian 11 精简版
-debian:11-slim
+# debian:11-slim
 # Debian 10 精简版
-debian:10-slim
+# debian:10-slim
 # centos:7
 # centos:8
 # nginx:1.22.1
@@ -88,7 +88,7 @@ debian:10-slim
 # Magnus，JumpServer EE Database Proxy Connector
 # ghcr.io/jumpserver/jms_magnus:v3.10.12
 
-jumpserver/jms_all:v4.10.4
+# jumpserver/jms_all:v4.10.4
 # jumpserver/jms_all:v4.6.0
 # ghcr.io/jumpserver/jms_core:latest
 # ghcr.io/jumpserver/jms_koko:latest
@@ -114,4 +114,4 @@ jumpserver/jms_all:v4.10.4
 # registry.community.greenbone.net/community/openvas-scanner:stable
 # registry.community.greenbone.net/community/ospd-openvas:stable
 # registry.community.greenbone.net/community/gvm-tools
-registry.community.greenbone.net/community/greenbone-feed-sync:v24.1.0
+registry.community.greenbone.net/community/greenbone-feed-sync:24.1.0
