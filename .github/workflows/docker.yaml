@@ -107,6 +107,7 @@ jobs:
             fi
         
             echo "docker pull $line"
+            docker search $line
             docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             echo "platform is $platform"
