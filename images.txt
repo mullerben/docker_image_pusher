@@ -99,9 +99,9 @@
 # jumpserver/guacd:1.5.5-bookworm
 
 
-registry.community.greenbone.net/community/vulnerability-tests
-registry.community.greenbone.net/community/notus-data
-registry.community.greenbone.net/community/scap-data
+# registry.community.greenbone.net/community/vulnerability-tests
+# registry.community.greenbone.net/community/notus-data
+# registry.community.greenbone.net/community/scap-data
 registry.community.greenbone.net/community/cert-bund-data
 registry.community.greenbone.net/community/dfn-cert-data
 registry.community.greenbone.net/community/data-objects
