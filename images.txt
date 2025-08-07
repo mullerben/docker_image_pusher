@@ -114,3 +114,4 @@ jumpserver/jms_all:v4.10.4
 # registry.community.greenbone.net/community/openvas-scanner:stable
 # registry.community.greenbone.net/community/ospd-openvas:stable
 # registry.community.greenbone.net/community/gvm-tools
+registry.community.greenbone.net/community/greenbone-feed-sync
