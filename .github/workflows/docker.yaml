@@ -55,10 +55,10 @@ jobs:
     - name: Docker Setup Buildx
       uses: docker/setup-buildx-action@v3
       
-    - name: List Image Tags
-      run: |
-        sudo apt-get install skopeo
-        skopeo list-tags docker://docker.io/nvidia/cuda
+    #- name: List Image Tags
+    #  run: |
+    #    sudo apt-get install skopeo
+    #    skopeo list-tags docker://docker.io/nvidia/cuda
 
     - name: Build and push image Aliyun
       run: |
