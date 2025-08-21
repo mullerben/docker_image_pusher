@@ -58,7 +58,7 @@ jobs:
     - name: List Image Tags
       run: |
         sudo apt-get install skopeo
-        skopeo list-tags docker://docker.io/redislabs/redisinsight
+        skopeo list-tags docker://docker.io/redis/redisinsight
 
     - name: Build and push image Aliyun
       run: |
