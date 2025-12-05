@@ -49,17 +49,18 @@
 # nacos/nacos-server:v2.5.1
 # nacos/nacos-server:v3.1.0
 # nacos/nacos-server:latest
-redis:6.0.9
-redis:6.0.10
-redis:6.0.11
-redis:6.0.12
-redis:6.0.13
-redis:6.0.14
-redis:6.0.15
-redis:6.0.16
-redis:6.0.17
-redis:6.0.18
-redis:6.0.19
+redis:6.0.8
+# redis:6.0.9
+# redis:6.0.10
+# redis:6.0.11
+# redis:6.0.12
+# redis:6.0.13
+# redis:6.0.14
+# redis:6.0.15
+# redis:6.0.16
+# redis:6.0.17
+# redis:6.0.18
+# redis:6.0.19
 # redis:6.0.20
 # redis:6.2.12
 # redis:7.0
