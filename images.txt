@@ -1,11 +1,14 @@
 # mysql:5.7.36
 # mysql:5.7.44
+mysql:8.0
 # mysql:8.0.24
 # mysql:8.0.33
 # mysql:8.0.36
 # mysql:8.0.39
 # mysql:8.0.44
+mysql:8.4
 # mysql:8.4.7
+mysql:9.5.0
 # mysql:latest
 
 # bellsoft/liberica-openjdk-debian:17.0.11-cds
