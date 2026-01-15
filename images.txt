@@ -49,7 +49,7 @@
 # nacos/nacos-server:v2.5.1
 # nacos/nacos-server:v3.1.0
 # nacos/nacos-server:latest
-redis:6.0.8
+# redis:6.0.8
 # redis:6.0.9
 # redis:6.0.10
 # redis:6.0.11
@@ -64,6 +64,10 @@ redis:6.0.8
 # redis:6.0.20
 # redis:6.2.12
 # redis:7.0
+redis:7.2
+redis:7.2.12
+redis:7.4
+redis:7.4.7
 # redis:8.4.0
 # minio/minio:RELEASE.2023-03-24T21-41-23Z
 # seataio/seata-server:1.7.1
