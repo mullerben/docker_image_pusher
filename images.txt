@@ -64,10 +64,10 @@
 # redis:6.0.20
 # redis:6.2.12
 # redis:7.0
-redis:7.2
-redis:7.2.12
-redis:7.4
-redis:7.4.7
+# redis:7.2
+# redis:7.2.12
+# redis:7.4
+# redis:7.4.7
 # redis:8.4.0
 # minio/minio:RELEASE.2023-03-24T21-41-23Z
 # seataio/seata-server:1.7.1
@@ -141,4 +141,7 @@ redis:7.4.7
 
 # redis/redisinsight:latest
 # redis/redisinsight:2.70.1
+redis/redisinsight:3.0
+redis/redisinsight:3.0.1
+redis/redisinsight:3.0.2
 
