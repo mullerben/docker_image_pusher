@@ -155,11 +155,33 @@
 # redis/redisinsight:3.0.1
 # redis/redisinsight:3.0.2
 
-ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:main-slim
+
+# ghcr.io/open-webui/open-webui:main
+# ghcr.io/open-webui/open-webui:main-slim
+# ghcr.io/open-webui/open-webui:main-ollama
+ghcr.io/open-webui/open-webui:main-cuda126
+# ghcr.io/open-webui/open-webui:main-cuda
+
+ghcr.io/open-webui/open-webui:latest
+ghcr.io/open-webui/open-webui:latest-slim
+ghcr.io/open-webui/open-webui:latest-ollama
+ghcr.io/open-webui/open-webui:latest-cuda126
+ghcr.io/open-webui/open-webui:latest-cuda
+
+ghcr.io/open-webui/open-webui
+ghcr.io/open-webui/open-webui:slim
 ghcr.io/open-webui/open-webui:ollama
+ghcr.io/open-webui/open-webui:cuda126
 ghcr.io/open-webui/open-webui:cuda
 
-ghcr.io/open-webui/open-webui:v0.8.6
-ghcr.io/open-webui/open-webui:v0.8.6-ollama
-ghcr.io/open-webui/open-webui:v0.8.6-cuda
+# ghcr.io/open-webui/open-webui:v0.8.6
+ghcr.io/open-webui/open-webui:v0.8.6-slim
+# ghcr.io/open-webui/open-webui:v0.8.6-ollama
+ghcr.io/open-webui/open-webui:v0.8.6-cuda126
+# ghcr.io/open-webui/open-webui:v0.8.6-cuda
+
+ghcr.io/open-webui/open-webui:v0.8.12
+ghcr.io/open-webui/open-webui:v0.8.12-slim
+ghcr.io/open-webui/open-webui:v0.8.12-ollama
+ghcr.io/open-webui/open-webui:v0.8.12-cuda126
+ghcr.io/open-webui/open-webui:v0.8.12-cuda
