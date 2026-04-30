@@ -7,17 +7,17 @@
 # mysql:8.0.39
 # mysql:8.0.44
 # mysql:8.0.45
-mysql:8.0.46
+# mysql:8.0.46
 # mysql:8.4
 # mysql:8.4.7
 # mysql:8.4.8
-mysql:8.4.9
+# mysql:8.4.9
 # mysql:9.5
 # mysql:9.5.0
 # mysql:9.6
 # mysql:9.6.0
-mysql:9.7
-mysql:9.7.0
+# mysql:9.7
+# mysql:9.7.0
 # mysql:latest
 
 # bellsoft/liberica-openjdk-debian:17.0.11-cds
@@ -200,3 +200,9 @@ mysql:9.7.0
 # ghcr.io/open-webui/open-webui:v0.9.2-ollama
 # ghcr.io/open-webui/open-webui:v0.9.2-cuda126
 # ghcr.io/open-webui/open-webui:v0.9.2-cuda
+
+
+ghcr.io/abhigyanpatwari/gitnexus:latest
+ghcr.io/abhigyanpatwari/gitnexus:1.6.3
+ghcr.io/abhigyanpatwari/gitnexus-web:latest
+ghcr.io/abhigyanpatwari/gitnexus-web:1.6.3
