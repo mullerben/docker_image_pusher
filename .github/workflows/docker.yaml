@@ -60,8 +60,9 @@ jobs:
         sudo apt-get install skopeo
         # skopeo list-tags docker://docker.io/redis/redisinsight
         # skopeo list-tags docker://ghcr.io/open-webui/open-webui
-        skopeo list-tags docker://docker.io/akonlabs/gitnexus
-        skopeo list-tags docker://docker.io/akonlabs/gitnexus-web
+        # skopeo list-tags docker://docker.io/akonlabs/gitnexus
+        # skopeo list-tags docker://docker.io/akonlabs/gitnexus-web
+        skopeo list-tags docker://docker.io/nginx
 
     - name: Build and push image Aliyun
       run: |
