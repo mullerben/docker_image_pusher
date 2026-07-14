@@ -62,9 +62,12 @@
 # nginx:1.22.1
 # nginx:1.26.2
 # nginx:1.30.1
-nginx:1.30.2
+# nginx:1.30.2
+nginx:1.30.3
 # nginx:1.31.0
-nginx:1.31.1
+# nginx:1.31.1
+nginx:1.31.2
+nginx:1.31.3
 # nginx:stable
 # nginx:latest
 # nacos/nacos-server:v2.3.2
