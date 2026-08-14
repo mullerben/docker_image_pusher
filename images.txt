@@ -217,11 +217,11 @@
 
 
 
-library/python:3:12
+library/python:3.12
 library/python:3.12-slim
 library/python:3.12-bookworm
 library/python:3.12-slim-bookworm
-library/python:3:12.14
+library/python:3.12.14
 library/python:3.12.14-slim
 library/python:3.12.14-bookworm
 library/python:3.12.14-slim-bookworm
