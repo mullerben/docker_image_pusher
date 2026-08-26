@@ -72,7 +72,7 @@
 
 # nacos/nacos-server:v2.3.2
 # nacos/nacos-server:v2.4.2
-nacos/nacos-server:v2.4.3
+# nacos/nacos-server:v2.4.3
 # nacos/nacos-server:v2.5.1
 # nacos/nacos-server:v3.1.0
 # nacos/nacos-server:latest
@@ -228,3 +228,11 @@ nacos/nacos-server:v2.4.3
 # library/python:3.12.14-slim
 # library/python:3.12.14-bookworm
 # library/python:3.12.14-slim-bookworm
+
+golang:1.24
+golang:1.24-alpine
+golang:1.24-bookworm
+
+golang:1.26
+golang:1.26-alpine
+golang:1.26-bookworm
