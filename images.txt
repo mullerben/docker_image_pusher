@@ -53,6 +53,7 @@
 # debian:stable-slim
 # Debian 12 精简版
 # debian:12-slim
+debian:12.12-slim
 # Debian 11 精简版
 # debian:11-slim
 # Debian 10 精简版
@@ -229,10 +230,14 @@
 # library/python:3.12.14-bookworm
 # library/python:3.12.14-slim-bookworm
 
-golang:1.24
-golang:1.24-alpine
-golang:1.24-bookworm
+# golang:1.24
+# golang:1.24-alpine
+# golang:1.24-bookworm
 
-golang:1.26
-golang:1.26-alpine
-golang:1.26-bookworm
+# golang:1.26
+# golang:1.26-alpine
+# golang:1.26-bookworm
+
+golang:1.27
+golang:1.27-alpine
+golang:1.27-bookworm
