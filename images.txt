@@ -259,5 +259,5 @@ fluent/fluent-bit:5.1.2
 prom/prometheus:v3.14.0
 prom/alertmanager:v0.34.0
 prom/node-exporter:v1.12.1
-gcr.io/cadvisor/cadvisor:v0.60.5
+ghcr.io\google\cadvisor:v0.60.5。
 grafana/grafana:13.2.1
