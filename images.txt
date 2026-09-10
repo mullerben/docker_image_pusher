@@ -99,7 +99,7 @@ debian:12.12-slim
 # redis:7.4.7
 # redis:8.4.0
 # minio/minio:RELEASE.2023-03-24T21-41-23Z
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+# minio/minio:RELEASE.2025-09-07T16-13-09Z
 # seataio/seata-server:1.7.1
 # seataio/seata-server:2.0.0
 # opensnail/snail-job:1.1.2
@@ -244,20 +244,20 @@ minio/minio:RELEASE.2025-09-07T16-13-09Z
 # golang:1.27-bookworm
 
 
-pgvector/pgvector:pg16
-pgvector/pgvector:0.8.6-pg16
+# pgvector/pgvector:pg16
+# pgvector/pgvector:0.8.6-pg16
 
-node:22-bookworm-slim
-node:22.23.2-bookworm-slim
-node:22-alpine
+# node:22-bookworm-slim
+# node:22.23.2-bookworm-slim
+# node:22-alpine
 
-apache/kafka:4.3.1
-opensearchproject/opensearch:3.8.0
-opensearchproject/opensearch-dashboards:3.8.0
-fluent/fluent-bit:5.1.2
+# apache/kafka:4.3.1
+# opensearchproject/opensearch:3.8.0
+# opensearchproject/opensearch-dashboards:3.8.0
+# fluent/fluent-bit:5.1.2
 
-prom/prometheus:v3.14.0
-prom/alertmanager:v0.34.0
-prom/node-exporter:v1.12.1
-ghcr.io/google/cadvisor:v0.60.5。
+# prom/prometheus:v3.14.0
+# prom/alertmanager:v0.34.0
+# prom/node-exporter:v1.12.1
+ghcr.io/google/cadvisor:v0.60.5
 grafana/grafana:13.2.1
