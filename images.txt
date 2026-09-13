@@ -261,5 +261,7 @@
 # ghcr.io/google/cadvisor:v0.60.5
 
 # grafana/grafana:13.2.1
-grafana/k6:2.2.0
+# grafana/k6:2.2.0
 # grafana/grafana:9.2.4
+
+ghcr.io/openbao/openbao:2.6.2
