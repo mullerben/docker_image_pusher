@@ -53,7 +53,7 @@
 # debian:stable-slim
 # Debian 12 精简版
 # debian:12-slim
-debian:12.12-slim
+# debian:12.12-slim
 # Debian 11 精简版
 # debian:11-slim
 # Debian 10 精简版
@@ -115,8 +115,6 @@ debian:12.12-slim
 # sheepkiller/kafka-manager:latest
 # apache/skywalking-oap-server:9.7.0
 # apache/skywalking-ui:9.7.0
-# prom/prometheus:v2.40.1
-# grafana/grafana:9.2.4
 # apache/shardingsphere-proxy:5.4.0
 # portainer/portainer-ce
 # portainer/helper-reset-password
@@ -256,8 +254,12 @@ debian:12.12-slim
 # opensearchproject/opensearch-dashboards:3.8.0
 # fluent/fluent-bit:5.1.2
 
+# prom/prometheus:v2.40.1
 # prom/prometheus:v3.14.0
 # prom/alertmanager:v0.34.0
 # prom/node-exporter:v1.12.1
-ghcr.io/google/cadvisor:v0.60.5
-grafana/grafana:13.2.1
+# ghcr.io/google/cadvisor:v0.60.5
+
+# grafana/grafana:13.2.1
+grafana/k6:2.2.0
+# grafana/grafana:9.2.4
