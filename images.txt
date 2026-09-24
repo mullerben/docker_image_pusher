@@ -266,6 +266,6 @@
 
 # ghcr.io/openbao/openbao:2.6.2
 
-mcr.microsoft.com/dotnet/sdk:9.0
-mcr.microsoft.com/dotnet/aspnet:9.0
 oven/bun:1.2-alpine
+# mcr.microsoft.com/dotnet/sdk:9.0
+mcr.microsoft.com/dotnet/aspnet:9.0
